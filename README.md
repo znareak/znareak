@@ -3,7 +3,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently developing in React.
+- 👨🏽‍💻 My career is most based on developing in React
 - 🌱 I’m currently exploring new applications and technologies for programming.
 - 🤔 My interest is front end web development and bit backend.
 - 📫 Email me at [libardojesusrengifo129@gmail.com](mailto:libardojesusrengifo129@gmail.com).
