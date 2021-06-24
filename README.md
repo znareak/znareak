@@ -1,6 +1,4 @@
 <h3 title="Hey guy, are you smiling today?"> Hey 👋, I'm Libardo!</h3>
-
-<br />
 <br />
 
 **About Me!**
@@ -13,7 +11,6 @@
 
 **Languages and Tools:**  
 
-
 <code>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
@@ -22,7 +19,5 @@
 </code>
 <br />
 <br />
-<br />
-
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=znareak&count_private=true&theme=radical" alt="Libardo Rengifo" />
 
