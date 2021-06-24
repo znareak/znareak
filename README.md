@@ -9,9 +9,7 @@
 
 A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
  
-
   <img align="right" alt="GIF" src="https://media.giphy.com/media/3o7TKx997XonqmAGU8/giphy.gif" />
-<br />
 <br />
 
 **About Me!**
@@ -28,13 +26,13 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 <code>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img align="right" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </code>
 <br />
 <br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=znareak&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=znareak&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=znareak&count_private=true&theme=radical" alt="Jas-Script" />
+<br />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=znareak&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Libardo's GitHub Stats">
+<img width="500px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=znareak&count_private=true&theme=radical" alt="Libardo Rengifo" />
+<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=znareak&count_private=true&theme=radical" alt="Libardo Rengifo" />
