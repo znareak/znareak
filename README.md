@@ -11,7 +11,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
  
   <img align="right" alt="GIF" src="https://media.giphy.com/media/3o7TKx997XonqmAGU8/giphy.gif" />
 <br />
-<br />
+
 **About Me!**
 
 - 👨🏽‍💻 I’m currently developing in React.
