@@ -1,4 +1,4 @@
-<h3 title="Hey guy, are you smiling today?"> Hey 👋, I'm Libardo!</h3>
+<h3 title="Hey guy, are you smiling today?"> What's up, I'm Libardo!</h3>
 <br />
 
 **About Me!**
