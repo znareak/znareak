@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="25%" valign="middle">
-      <img src="https://i.ibb.co/jPBsNHhg/ascii-magic-3.png" alt="Libardo Rengifo" width="100%" />
+      <img src="https://i.ibb.co/NQtBj2F/ascii-magic-4.png" alt="Libardo Rengifo" width="100%" />
     </td>
     <td width="75%" valign="middle">
       <h3>👋 ¡Hola! Soy Libardo Rengifo</h3>
